@@ -1,0 +1,13 @@
+:root {
+  --mpa-bg: #0d0a07;
+  --mpa-surface: #1a1208;
+  --mpa-surface-2: #2d1f0a;
+  --mpa-border: #332a1a;
+  --mpa-accent: #ff6a0d;
+  --mpa-accent-glow: #ff3000;
+  --mpa-cyan: #00d4ff;
+  --mpa-text: #ffffff;
+  --mpa-text-dim: #a09070;
+  --font-mono: "JetBrains Mono", "Fira Code", ui-monospace, Menlo, monospace;
+  --font-display: "Space Grotesk", "DM Sans", system-ui, sans-serif;
+}
